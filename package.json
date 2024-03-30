@@ -1,0 +1,13 @@
+{
+  "name": "task-10",
+  "version": "1.0.0",
+  "description": "This is a task no 10 on 45 question exercise",
+  "main": "index.js",
+  "type":"module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
